@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestoCastroSpartan/frontend.git"
+  },
+  "author": "Ernesto Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnestoCastroSpartan/frontend/issues"
+  },
+  "homepage": "https://github.com/ErnestoCastroSpartan/frontend#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
